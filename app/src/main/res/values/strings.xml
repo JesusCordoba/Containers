@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Containers</string>
+    <string name="btn_ir_radio_group">Radio Group</string>
+    <string name="btn_ir_box_model">Box Model</string>
+    <string name="btn_ir_table">Table</string>
+    <string name="btn_ir_overlap">Overlap</string>
+</resources>
